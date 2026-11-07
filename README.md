@@ -29,6 +29,6 @@ Git · GitHub · VS Code · MongoDB Compass · Postman · Figma · StarUML · XM
 📫 Let's Connect
 
 - GitHub: "@Lyna-Blk" (https://github.com/Lyna-Blk)
-- Email: "lynablk.dev@gmail.com" (mailto:lynablk.dev@gmail.com)
+- Email: "lynablk.dev@gmail.com" 
 
 ---
